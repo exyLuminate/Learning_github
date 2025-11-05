@@ -3,6 +3,7 @@
 Sebuah website portofolio pribadi yang dibuat menggunakan HTML, dan CSS sederhana.  
 Website ini berfungsi sebagai media untuk memperkenalkan diri, menampilkan pengalaman, proyek, serta kontak profesional.
 
+Link : https://exyluminate.github.io/exyLuminate/
 ---
 
 ## 🚀 Fitur Utama
@@ -32,20 +33,13 @@ cd PemrogramanWeb
 #### 3️⃣ Buka di Browser
 start index.html
 
-
-##### Struktur Folder
-PemrogramanWeb/
-│
-├── index.html          # Halaman utama website
-├── style.css           # File CSS utama
-├── image/              # Folder berisi gambar proyek dan profil
-│   ├── pp.png
-│   ├── SIBBO.jpg
-│   └── e-lib.jpg
-└── README.md           # Dokumentasi proyek
-
-Teknologi yang Digunakan
+##### Teknologi yang Digunakan
 
 HTML5 — Struktur halaman
 CSS3 — Styling dan layout responsif
 Font Awesome — Ikon sosial media
+
+##### Log History
+
+**1. Initial Commit + Kerangka Dasar Website**
+(.image/1.png)
