@@ -42,4 +42,4 @@ Font Awesome — Ikon sosial media
 ##### Log History
 
 **1. Initial Commit + Kerangka Dasar Website**
-(./image/1.png)
+![Initial commit](./image/1.png)
