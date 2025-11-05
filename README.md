@@ -43,3 +43,27 @@ Font Awesome — Ikon sosial media
 
 **1. Initial Commit + Kerangka Dasar Website**
 ![Initial commit](./image/1.png)
+
+**2. Update Struktur + merge master ke main**
+![Update Struktur + Merge](./image/2.png)
+
+**3. Update HTML  + content web (project+readme+gambar)**
+![Update HTML + content](./image/3.png)
+
+**4. Membuat branch mega_update dan berpindah ke branch**
+![Membuat branch + berpindah](./image/4.png)
+
+**5. Mengecek working branch dan kembali ke main**
+![Mengecek branch](./image/5.png)
+
+**6. pindah ke branch dan melakukan update html + css serta commit**
+![Pindah](./image/6.png)
+
+**7. pindah ke main dan melakukan merge dari branch mega_update**
+![Merge](./image/7.png)
+
+**8. Menghapus branch mega_update karena sudah tidak digunakan**
+![Hapus](./image/8.png)
+
+**9. Melakukan Update readme setelah merge dari branch**
+![Update](./image/9.png)
